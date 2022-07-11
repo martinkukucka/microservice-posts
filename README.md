@@ -24,3 +24,6 @@ Database connection is required. Default database settings: <br />
   &ensp;&ensp;&ensp;    http://127.0.0.1:8000/api/posts/postId/ <br />
   &ensp;• posts of selected user <br />
   &ensp;&ensp;&ensp;    http://127.0.0.1:8000/api/users/userId/ <br />
+  
+#### Path to run API documentation in web browser:  <br />
+ &ensp;docs/_build/html/index.html
